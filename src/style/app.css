@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+  background-image: url('../imgs/bg-curvy-desktop.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom;
+}
