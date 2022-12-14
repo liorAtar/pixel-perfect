@@ -1,5 +1,10 @@
+.all-info {
+    display: flex;
+    flex-direction: column;
+}
+
 .info {
-    width: fit-content;
+    margin-block: 80px;
 }
 
 .info svg {
@@ -70,6 +75,10 @@ p {
 @media only screen and (min-width: 650px) {
     .btn-start {
         margin-block: 154px;
+    }
+
+    .info {
+        width: fit-content;
     }
 
     .all-info {
